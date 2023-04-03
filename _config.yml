@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Christos Dogrammatzis"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Christos Dogrammatzis"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=Dogrammatzis+C&cauthor_id=33374862"
+  googlescholar    : "https://scholar.google.com/citations?user=ALQNQLUAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Christos_Dgr"
   uri              :
   bitbucket        :
   codepen          :

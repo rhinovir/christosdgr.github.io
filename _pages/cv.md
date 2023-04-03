@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Biology, Aristotle University of Thessaloniki, 2015
+* Ph.D in Microbiology, Molecular Genetics, and Immunology, University of Kansas, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2013: Research Assistant
+  * University of Zurich
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Urs Greber
 
 * Fall 2015: Research Assistant
   * Github University
